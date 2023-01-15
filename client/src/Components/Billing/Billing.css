@@ -1,0 +1,11 @@
+.billing{
+    width: 90%;
+    margin:  10px;
+    height: 100vh;
+    border: 2px solid black;
+    /* background-color: aliceblue; */
+    border-color: aquamarine;
+}
+ .p{
+    margin: 20px;
+ }
